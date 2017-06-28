@@ -26,7 +26,7 @@ import { MarkerClusterDirective } from './marker-cluster';
     FormsModule,
     AgmCoreModule.forRoot({
       region: "de",
-      apiKey: 'AIzaSyBHPLAOZmAzfihSQM8ICypXhM1CG18NpAM'
+      apiKey: 'YOUR_KEY'
     })
   ],
   providers: [],
